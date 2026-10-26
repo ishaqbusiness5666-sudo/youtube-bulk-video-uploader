@@ -1,0 +1,23 @@
+# Google OAuth / YouTube credentials
+client_secret.json
+token.json
+
+# Local project data and personal content
+config.json
+descration.txt
+upload_log.txt
+YouTube Videos/
+video_Theminal/
+temp_thumbnail.jpg
+
+# Python cache and environment
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
